@@ -17,7 +17,7 @@ The following data visualizations will display our findings:
 ![Top Starting Locations](https://user-images.githubusercontent.com/96156893/170094059-e01cdc42-23ce-49c3-bf84-6dc37d58aeba.png)
 
 ### Checkout Times for Users 
-* Most users peaked at a 2o-minute ride. 
+* Most users peaked at a 20-minute ride. 
 ![Checkout Times for Users png](https://user-images.githubusercontent.com/96156893/170094096-6d3dc914-880e-4480-9a6d-378d4a739e20.png)
 
 ### Checkout Times by Gender
