@@ -41,9 +41,11 @@ The following data visualizations will display our findings:
 * Most males riders ride during thursday-friday
 ![User Trips by Gender by Weekday png](https://user-images.githubusercontent.com/96156893/170094231-cb2e4ea2-7dbb-4aad-9258-8c5d9f095b66.png)
 
-Please Follow the link to my dashboard. 
+* Please Follow the link to my dashboard. 
 https://public.tableau.com/views/NYCcitibikedashboard/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-Please Follow the link to my story. https://public.tableau.com/views/NYCcitibike_16534107755000/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+* Please Follow the link to my story. 
+https://public.tableau.com/views/ChallengeStory_16534204196580/NYCChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Summary 
 The analyzed data support that this a solid business proposal. In the month of August alone there were over two million users. Male subscribers are the majority of users. The mainly ride during the morning and afternoon hours with this we believe they use the bikes for transportation to work.  The target market should be males living near Pershing Square North. 
