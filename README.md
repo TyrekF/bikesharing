@@ -30,6 +30,7 @@ The following data visualizations will display our findings:
 
 ### Trips by Weekday for Each Hour
 * There was a high usage of rides between 5p.m. and 7p.m.
+
 ![Trips by weekend per hour png](https://user-images.githubusercontent.com/96156893/170094190-77f4b5f8-8772-460c-b366-cacbf22108ed.png)
 
 ### Trips by Gender (Weekday per Hour)
