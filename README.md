@@ -14,7 +14,6 @@ The following data visualizations will display our findings:
 
 ### Top Starting Locations 
 * Manhattan was a prominent area for bikers to start their rides.
-* 
 ![Top Starting Locations](https://user-images.githubusercontent.com/96156893/170094059-e01cdc42-23ce-49c3-bf84-6dc37d58aeba.png)
 
 ### Checkout Times for Users 
