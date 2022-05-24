@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview of the analysis:
-Kate asked for data for a business proposal. She looked at the data collected by Citibike in New York City to see if it would be a good fit for Des Moines. Other factors such as the duration of the users' usage and the target market were also taken into account. Now that she's reviewed the data she must convince investors that the bike sharing program is a solResults
+Kate asked for data for a business proposal. She looked at the data collected by Citibike in New York City to see if it would be a good fit for Des Moines. Other factors such as the duration of the users' usage and the target market were also taken into account. Now that she's reviewed the data she must convince investors that the bike sharing program is a solid business.
 
 ## Results 
 The following data visualizations will display our findings:
